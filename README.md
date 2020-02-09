@@ -1,0 +1,2 @@
+# shadowsocksr
+sub address
